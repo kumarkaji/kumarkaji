@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kumarkaji
-- 👀 I’m interested in Ansible
-- 🌱 I’m currently learning Ansible AWX
-- 💞️ I’m looking to collaborate on Ansible AWX
+- 👀 I’m interested in Ansible and Terraform on Azure
+- 🌱 I’m currently learning Terraform, Python and Azure Functions 
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me : Email kumarkaji@gmail.com
 
 <!---
